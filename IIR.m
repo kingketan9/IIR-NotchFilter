@@ -114,7 +114,7 @@ zplane(z2,p2)
 title ('Zeros and poles placment')
 legend('zeros','poles')
 grid on
-figure (10)
+figure (9)
 semilogy(freq, mag_Y, 'r')
 grid
 hold on
